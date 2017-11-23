@@ -3,4 +3,4 @@ for test
 
 
 feature 2
-local updated 2
+server updated 2
